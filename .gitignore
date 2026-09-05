@@ -1,0 +1,5 @@
+.venv/
+.cache/
+huggingface_cache/
+__pycache__/
+.ipynb_checkpoints/
